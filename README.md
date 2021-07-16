@@ -1,7 +1,6 @@
 # aca-pruebas-sprint1-meeting10
 
-## Felipe
+## Instrucciones para la instalación
+npm install
 
-### Morales
-- Hola
-- holita
+
